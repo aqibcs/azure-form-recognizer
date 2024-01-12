@@ -15,7 +15,7 @@ Before running the application, make sure you have the following:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/aqibcs/azure-form-recognizer.git
+    git clone git@github.com:aqibcs/azure-form-recognizer.git
     ```
 
 2. Install dependencies:
